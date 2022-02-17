@@ -1,0 +1,39 @@
+<html>
+<head>
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="icon" href="Images/Logo2.jpg" type="image/x-icon" />
+    <title>City Food</title>
+</head>
+
+<body>
+    <div id="registerationForm">
+        <form method="post" action="Loader.html" id="login-form" class="login-form" autocomplete="off" role="main">
+            <img id="cityFoodImg" src="Images/logo2.jpg" alt="city food" />
+            <h4 id="welcomeTitle">Login</h4>
+            <div>
+                <label class="label-email">
+                    <input type="email" class="text" name="email" placeholder="Enter your email here"
+                        pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Example: characters@characters.domain"
+                        required />
+                    <span class="required">Email</span>
+                </label>
+            </div>
+            <div>
+                <label class="label-password">
+                    <input type="text" class="text" name="password" placeholder="Enter your password"
+                        pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one  number and one uppercase 
+                and lowercase letter, and at least 8 or more characters" required />
+                    <span class="required">Password</span>
+                </label>
+            </div>
+            <div>
+                <input type="submit" value="Sign in"></input>
+            </div>
+            <div>
+                <p id="afterButton">Create your account from <a href="SignUpPage.html">here</a> </p>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>

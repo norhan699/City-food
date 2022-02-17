@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="Homepage.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body id="myPage">
+	<!--body-->
+	<header>
+	<section id="ABC">
+	<div>
+	<br><strong><h1 id="logoWord">City Food
+	<a href="#myPage" ><img src="Logo2.jpg" style="width:8%;min-height:15%;max-height:20%; margin-top: -38px;" align="left"><br></a></h1></strong>
+	</div>
+	<!--Top Bar-->
+	<div class="topnav a" >
+	  <a href="#myPage">Home</a>
+	  <a href="#contact" id="contactus">Contact</a>
+	  <a href="#about">About</a>
+	  <div id="nav-btn">
+	  <button type="submit"  class="small-btn">Sign Up</button>
+	  <button type="submit" class="small-btn">Sign In</button>
+	  </div>
+	</section>
+	<br><br><br>
+	</div>
+	</header>
+	<div class="bgimg">
+	<div class="padtext">
+		<strong><br>
+		<strong><h1>Know The Food </h2></strong>
+		<div><strong><h1>Recipes in </h1></strong></div>
+		<div><strong><h1>Different </h1></strong></div>
+		<div><strong><h1>Countries </h1></strong></div>
+	</div>
+	<div class="padbottom">
+	<br>
+      <button type="submit" class="medium-btn">Egypt</button><br><br>
+      <button type="submit" class="medium-btn">Italy</button><br><br>
+	  <button type="submit" class="medium-btn">Chinese</button>
+    </div>
+	</div>
+	<br><br>
+	<hr>
+	<br><br>
+	<div>
+		<img id="egyptHomePhoto"src="BE7B00C2-D788-4862-9C48-70634DE1707E_1588514257.jpeg"align="left">
+		<div id="egyptPart">
+		<strong><h1><br>
+		<p>Egypt </p></h1></strong>
+		<div><h4>Egyptian cuisine makes heavy use of legumes, vegetables and fruit from Egypt's rich Nile Valley and Delta. 
+										Examples of Egyptian dishes include rice-stuffed vegetables and grape leaves, hummus, falafel, shawarma, kebab and kofta. ful medames, 
+										mashed fava beans; kushari, lentils and pasta; and molokhiya, bush okra stew. A local type of pita bread known as eish baladi 
+										(Egyptian Arabic: عيش بلدي) is a staple of Egyptian cuisine, and cheesemaking in Egypt dates back to the First Dynasty of Egypt, with domty 
+										being the most popular type of cheese consumed today.Common meats in Egyptian cuisine are squab, chicken, and lamb.Lamb and beef 
+										are frequently used for grilling. Offal is a popular fast food in cities, and foie gras is a delicacy that has been prepared in the region since at least 2500 BCE.
+										Fish and seafood are common in Egypt's coastal regions.</h4>
+		<button type="submit"  class="small-btn">See More</button>
+		</div>
+	
+	</div>
+
+	</div>
+	<br><br><br>
+	<hr>
+	<br><br>
+	<div>
+		<img id="italyHomePhoto"src="pizza.jpg" align="left">
+		<div id="italyPart">
+		<strong><h1><br>
+		<p>Italy </p></h1></strong>
+		<div><h4>Italian cuisine has a great variety of different ingredients which are commonly used, ranging from fruits, vegetables, grains, 
+										cheeses, meats and fish. In the North of Italy, fish (such as cod, or baccalà), potatoes, rice, corn (maize), sausages, pork, 
+										and different types of cheese are the most common ingredients. Pasta dishes with tomato are common throughout Italy.
+										Italians use ingredients that are fresh and subtly seasoned and spiced.In Northern Italy though there are many kinds of stuffed pasta, 
+										polenta and risotto are equally popular if not more so.Ligurian ingredients include several types of fish and seafood dishes. 
+										Basil (found in pesto), nuts, and olive oil are very common. In Emilia-Romagna, common ingredients include ham (prosciutto), 
+										sausage (cotechino), different sorts of salami, truffles, grana, Parmigiano-Reggiano, tomatoes (Bolognese sauce or ragù) and aceto balsamico.</h4>
+		<button type="submit"  class="small-btn">See More</button>
+		</div>
+	
+	</div>
+	</div>
+	<br><br><br>
+	<hr>
+	<br><br>
+	<div id="chinesePart">
+		<img id="chineseHomePhoto"src="0_Chinese-food-Hampshire.jpg"align="left">
+		<div id="content">
+		<strong><h1><br>
+		<p>Chinese </p></h1></strong>
+		<div><h4>Chinese cuisine is an important part of Chinese culture and includes cuisines originating from China. 
+										Because of the Chinese diaspora and historical power of the country, Chinese cuisine has influenced many other cuisines in Asia and beyond, 
+										with modifications made to cater to local palates. Chinese food staples such as rice, soy sauce, noodles, tea, chili oil, 
+										and tofu, and utensils such as chopsticks and the wok, can now be found worldwide.The preferences for seasoning and cooking 
+										techniques of Chinese provinces depend on differences in historical background and ethnic groups. Geographic features including mountains, 
+										rivers, forests, and deserts also have a strong effect on the local available ingredients, considering that the climate of China varies 
+										from tropical in the south to subarctic in the northeast. Imperial royal and noble preference also plays a role in the change of Chinese 
+										cuisine.</h4>
+		<button type="submit"  class="small-btn">See More</button>
+		</div>
+	
+	</div>
+	</div>
+	
+	<div >
+	<div class="curverd upper">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#E7ECFF" 
+			fill-opacity="1" d="M0,128L80,138.7C160,149,320,171,480,149.3C640,128,800,64,960,69.3C1120,75,1280,149,
+			1360,186.7L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
+	
+	</div>
+	
+	<div class="curved-div">
+	
+			<p id="curveTitle">A Recipie To Suit Everyone</p><br>
+			  <p>
+				Need some inspiration in the kitchen? City Food is here to help. We've got</br>recipes to suit all skill levels, whether you're an amateur cook or a wizard in</br>
+				the kitchen.City Food recipes also pride themselves on having something for</br>many different conditions - we believe that everyone should be able to enjoy</br>delicious,
+				nutritious food.
+			  </p>
+			  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 150"><path fill="#E7ECFF" 
+			  fill-opacity="1" d="M0,64L48,53.3C96,43,192,21,288,16C384,11,480,21,576,69.3C672,117,768,203,
+			  864,213.3C960,224,1056,160,1152,117.3C1248,75,1344,53,1392,42.7L1440,32L"></path></svg>
+	</div>
+	 <!-- Site footer -->
+    <footer class="site-footer">
+          <div>
+            <center><p>To see more</p></center>
+            <center><button type="submit"  class="small-btn">Register Now</button></center>
+          </div>   
+        <hr>
+	</div>			
+			<div class="footer-links" >
+              <a id="firstLink"href="#myPage">Home  | </a>
+              <a href="#contactus"> Contact Us  | </a>
+              <a href="http://scanfcode.com/contribute-at-scanfcode/"> About Us</a>
+            <ul class="social-icons">
+              <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+              <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>  
+			</ul>
+		<p>Copyright &copy; 2022 All Rights Reserved.</p>				
+            </div>			
+				
+
+	</footer>
+</body>
+</html>
